@@ -14,17 +14,17 @@ This repository contains my solutions to various Piscine projects:
 
 | Projects |             Solutions             |         Concepts          |
 | :------: | :-------------------------------: | :-----------------------: |
-| Shell00  | [65%](./Shell_Projects/shell00/)  |       Shell Basics        |
-| Shell01  | [70%](./Shell_Projects/shell01/)  |       Shell Basics        |
-|   C00    |     [75%](./C_Projects/C00/)      |        Intro to C         |
-|   C01    |     [100%](./C_Projects/C01/)     |         Pointers          |
-|   C02    |     [85%](./C_Projects/C02/)      |     Strings & Arrays      |
-|   C03    |     [100%](./C_Projects/C03/)     |    String Manipulation    |
-|   C04    |     [75%](./C_Projects/C04/)      |     Integers & Bases      |
-|   C05    |     [80%](./C_Projects/C05/)      |   Iteration & Recursion   |
-|   C06    |     [100%](./C_Projects/C06/)     |        Argc & Argv        |
-|   C07    |     [50%](./C_Projects/C07/)      |     Memory Allocation     |
-|   C08    |     [40%](./C_Projects/C08/)      | Headers, Macros & Structs |
+| Shell00  | [65%](./Shell%20Projects/shell00/)|       Shell Basics        |
+| Shell01  | [70%](./Shell%20Projects/shell01/)|       Shell Basics        |
+|   C00    |     [75%](./C%20Projects/C00/)    |        Intro to C         |
+|   C01    |     [100%](./C%20Projects/C01/)   |         Pointers          |
+|   C02    |     [85%](./C%20Projects/C02/)    |     Strings & Arrays      |
+|   C03    |     [100%](./C%20Projects/C03/)   |    String Manipulation    |
+|   C04    |     [75%](./C%20Projects/C04/)    |     Integers & Bases      |
+|   C05    |     [80%](./C%20Projects/C05/)    |   Iteration & Recursion   |
+|   C06    |     [100%](./C%20Projects/C06/)   |        Argc & Argv        |
+|   C07    |     [50%](./C%20Projects/C07/)    |     Memory Allocation     |
+|   C08    |     [40%](./C%20Projects/C08/)    | Headers, Macros & Structs |
 |   C09    |               N.A.                |   Libraries & MakeFile    |
 |   C10    |               N.A.                |    Recreating Programs    |
 |   C11    |               N.A.                |     Function Pointers     |
@@ -39,6 +39,7 @@ This repository contains my solutions to various Piscine projects:
 - Developing problem-solving skills without relying on standard libraries.
 - Learning to write clean and modular C code.
 - Adapting to an intense, self-driven learning environment.
+- Embracing failure as part of the learning process.
 
 ## Tips for Future Pisciners
 
@@ -46,7 +47,7 @@ This repository contains my solutions to various Piscine projects:
 2. **Manage Your Time**: Start early, especially with projects like C00 and C01.
 3. **Use Peer Reviews**: Evaluating others' code is a great way to learn.
 4. **Get Comfortable with VIM**: Exams may not have VSCode available.
-5. **Participate in Rushes**: At least one is required, and they help with problem-solving.
+5. **Participate in Group Projects**: At least one is required, and they help with problem-solving.
 
 ## Exam Guide
 
